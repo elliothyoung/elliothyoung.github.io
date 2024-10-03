@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: Publications & Software
 description: 
 nav: true
 nav_order: 2
@@ -13,3 +13,6 @@ nav_order: 2
 
 #### Thesis
 - Young, E. H. and Shah, R. D. (2024), Modern Methods in Semiparametric Statistics.
+
+#### Software
+- R code `sandwich.boosting` for sandwich boosting in the grouped partially linear model.
