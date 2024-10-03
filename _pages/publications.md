@@ -15,4 +15,5 @@ nav_order: 2
 - Young, E. H. and Shah, R. D. (2024), Modern Methods in Semiparametric Statistics.
 
 #### Software
-- R code `sandwich.boosting` for sandwich boosting in the grouped partially linear model.
+- R code [`sandwich.boosting`](https://github.com/elliot-young/sandwich.boost) for sandwich boosting in the grouped partially linear model.
+- R code [`roseRF`](https://github.com/elliot-young/roseRF) for robust semiparametric efficient (ROSE) random forest estimators.
