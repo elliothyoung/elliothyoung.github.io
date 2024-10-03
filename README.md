@@ -1,1 +1,1 @@
-Academic webpage of Elliot H. Young.
+Academic website of Elliot H. Young.
