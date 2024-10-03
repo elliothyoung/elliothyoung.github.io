@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle: ey244@cam.ac.uk
 
 profile:
   align: right
