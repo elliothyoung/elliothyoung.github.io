@@ -9,6 +9,7 @@ nav_order: 2
 
 #### Publications and Preprints
 
+- Young, E. H. and Buehlmann, P. (2025), [Clustered random forests with correlated data for optimal estimation and inference under potential covariate shift](https://arxiv.org/abs/2503.12634), *Preprint, arXiv:2503.12634*.
 - Young, E. H. and Shah, R. D. (2024), [ROSE Random Forests for Robust Semiparametric Efficient Estimation](https://arxiv.org/abs/2410.03471), *Preprint, arXiv:2410.03471*.
 - Young, E. H. and Shah, R. D. (2024), [Sandwich Boosting for Accurate Estimation in Partially Linear Models for Grouped Data](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkae032/7667645), *J. Roy. Statist. Soc., Ser. B., to appear*. ([arXiv](https://arxiv.org/abs/2307.11401))
 
@@ -16,6 +17,7 @@ nav_order: 2
 - Young, E. H. (2024), Modern Methods in Semiparametric Statistics.
 
 #### Software
+- [`corrRF`](https://cran.r-project.org/web/packages/corrRF/index.html) for fitting clustered random forests for optimal prediction and inference of clustered data.
 - [`roseRF`](https://cran.r-project.org/web/packages/roseRF/index.html) for robust semiparametric efficient (ROSE) random forest estimators.
 - [`sandwich.boosting`](https://github.com/elliot-young/sandwich.boost) for sandwich boosting in the grouped partially linear model.
 <!-- - [`roseRF`](https://github.com/elliot-young/roseRF) for robust semiparametric efficient (ROSE) random forest estimators. -->
