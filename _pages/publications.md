@@ -16,7 +16,7 @@ nav_order: 2
 - Young, E. H. and Shah, R. D. (2024), [Sandwich Boosting for Accurate Estimation in Partially Linear Models for Grouped Data](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkae032/7667645), *J. Roy. Statist. Soc., Ser. B.*, 86(5) 1286–1311. ([arXiv](https://arxiv.org/abs/2307.11401))
 
 #### Thesis
-- Young, E. H. (2024), Modern Methods in Semiparametric Statistics.
+- Young, E. H. (2024), [Modern Methods in Semiparametric Statistics](https://www.repository.cam.ac.uk/items/5ae25072-1413-41e8-b1a1-dca60b56d255).
 
 #### Software
 - [`corrRF`](https://cran.r-project.org/web/packages/corrRF/index.html) for fitting clustered random forests for optimal prediction and inference of clustered data.
